@@ -18,6 +18,8 @@ The primary objective of this project is to build and evaluate machine learning 
 
 **1. Data Acquisition**:
    - The project begins with the acquisition of a labeled dataset containing news articles. The dataset is typically divided into two classes: "real" and "fake" news.
+   
+   - The dataset will be found from kaggle: https://www.kaggle.com/competitions/fake-news
 
 **2. Data Preprocessing**:
    - The raw text data undergoes preprocessing steps, including text cleaning, tokenization, and stemming (or lemmatization). Special characters, numbers, and stopwords are removed to prepare the text for analysis.
@@ -26,7 +28,7 @@ The primary objective of this project is to build and evaluate machine learning 
    - Feature engineering involves converting the text data into numerical form. In this project, TF-IDF (Term Frequency-Inverse Document Frequency) vectorization is used to represent the text data as numerical features.
 
 **4. Model Selection and Training**:
-   - Multiple machine learning algorithms are explored for classification, including Logistic Regression, Multinomial Naive Bayes, and SVM. In addition, I will also use Random Forest and XGBoost as ensemble methods.
+   - Multiple machine learning algorithms are explored for classification, including Logistic Regression, Multinomial Naive Bayes. In addition, I will also use Random Forest and XGBoost as ensemble methods.
 
 **5. Model Evaluation**:
    - The models are evaluated using a variety of metrics, including accuracy, precision, recall, F1-score, and confusion matrices. The goal is to assess each model's ability to correctly classify real and fake news. If time permits, I will also look into k-cross-validation.
