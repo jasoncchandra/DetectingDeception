@@ -26,7 +26,7 @@ The primary objective of this project is to build and evaluate machine learning 
    - Feature engineering involves converting the text data into numerical form. In this project, TF-IDF (Term Frequency-Inverse Document Frequency) vectorization is used to represent the text data as numerical features.
 
 **4. Model Selection and Training**:
-   - Multiple machine learning algorithms are explored for classification, including Logistic Regression, Multinomial Naive Bayes, and SVM. 
+   - Multiple machine learning algorithms are explored for classification, including Logistic Regression, Multinomial Naive Bayes, and SVM. In addition, I will also use Random Forest and XGBoost as ensemble methods.
 
 **5. Model Evaluation**:
    - The models are evaluated using a variety of metrics, including accuracy, precision, recall, F1-score, and confusion matrices. The goal is to assess each model's ability to correctly classify real and fake news. If time permits, I will also look into k-cross-validation.
