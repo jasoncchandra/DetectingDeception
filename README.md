@@ -1,7 +1,7 @@
 # Detecting Deception
 A Machine Learning Quest Against Fake News.
 
-Growing up, I was always the family's go-to tech-savvy person, helping them navigate the digital world. However, one incident hit close to home and drove me to tackle the issue of fake news. A lot of my family's grandma and grandpa fell victim to a fabricated news that she encountered online. This misinformation led to unnecessary stress and confusion for them. This personal experience sparked me to develop a solution that could help people like my grandparents distinguish fact from fiction. Through this project, I'm on a mission to use machine learning to empower individuals to make informed decisions, safeguarding them from the pitfalls of misinformation in the digital age.
+Growing up, I was always the family's go-to tech-savvy person, helping them navigate the digital world. However, one incident hit close to home and drove me to tackle the issue of fake news. My family's grandma and grandpa fell victim to a fake news that they encountered online. This misinformation led to unnecessary stress and confusion for them. This personal experience sparked me to develop a solution that could help people like my grandparents distinguish fact from fiction. Through this project, I'm on a mission to use machine learning to empower individuals to make informed decisions, safeguarding them from the pitfalls of misinformation in the digital age.
 
 
 **Problem Definition**:
